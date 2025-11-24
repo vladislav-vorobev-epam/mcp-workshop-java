@@ -1,0 +1,8 @@
+app:
+  data:
+    directory: ${DATA_DIRECTORY:./data}
+
+logging:
+  level:
+    com.epam.masterclass: INFO
+    root: WARN
