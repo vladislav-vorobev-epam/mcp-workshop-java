@@ -1,0 +1,24 @@
+# MCP Server Configuration
+# This configuration is used when running with the 'mcp' Spring profile
+# Start the MCP server with: mvn spring-boot:run -Dspring-boot.run.profiles=mcp
+
+server:
+  port: 8002
+
+spring:
+  application:
+    name: MyTasks MCP
+  ai:
+    mcp:
+      server:
+        # Server-Sent Events (SSE) transport configuration
+        transport: sse
+        # The SSE endpoint will be available at: http://localhost:8002/sse
+        sse:
+          path: /sse
+          
+logging:
+  level:
+    com.epam.masterclass: INFO
+    org.springframework.ai: INFO
+    root: WARN

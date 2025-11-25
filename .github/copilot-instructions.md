@@ -9,6 +9,10 @@ This is a **Model Context Protocol (MCP) workshop project** using Spring Boot 4.
 - **Maven** for build management
 - **Package structure**: `com.epam.masterclass`
 
+## Personal preferences
+- !!! ALWAYS STOP AT SMALLER OPERATIONS FOR ME TO CONTROL THE FLOW !!!
+- Don't create MD documentation, unless specifically asked to.
+
 ## Build & Run
 ```bash
 # Build the project

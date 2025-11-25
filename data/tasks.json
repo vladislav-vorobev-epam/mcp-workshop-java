@@ -14,5 +14,253 @@
     "status" : "NEW",
     "createdAt" : 1764067417.757934000,
     "updatedAt" : 1764067417.757934000
+  },
+  "7e862c5b-546f-4642-989c-ee8e976dbba5" : {
+    "id" : "7e862c5b-546f-4642-989c-ee8e976dbba5",
+    "title" : "Some task from MCP",
+    "description" : "Cool, I'm alive! ALIVE!!",
+    "status" : "NEW",
+    "createdAt" : 1764074706.697004000,
+    "updatedAt" : 1764074706.697004000
+  },
+  "2f10e672-1d26-4a14-b3c3-5c419f29f0e9" : {
+    "id" : "2f10e672-1d26-4a14-b3c3-5c419f29f0e9",
+    "title" : "Transition Test",
+    "description" : "Testing transitions",
+    "status" : "DONE",
+    "createdAt" : 1764075161.214009000,
+    "updatedAt" : 1764075161.228147000
+  },
+  "2e9fa9b6-f981-4c39-885a-b9b94e3132f4" : {
+    "id" : "2e9fa9b6-f981-4c39-885a-b9b94e3132f4",
+    "title" : "Workflow 1",
+    "description" : "Desc 1",
+    "status" : "NEW",
+    "createdAt" : 1764075161.235790000,
+    "updatedAt" : 1764075161.235790000
+  },
+  "63e998b6-7bca-4c7f-8243-c291d5290cda" : {
+    "id" : "63e998b6-7bca-4c7f-8243-c291d5290cda",
+    "title" : "Workflow 2",
+    "description" : "Desc 2",
+    "status" : "NEW",
+    "createdAt" : 1764075161.236762000,
+    "updatedAt" : 1764075161.236762000
+  },
+  "c873a84b-60cb-4404-a992-2d427c8b4207" : {
+    "id" : "c873a84b-60cb-4404-a992-2d427c8b4207",
+    "title" : "Workflow 3",
+    "description" : "Desc 3",
+    "status" : "NEW",
+    "createdAt" : 1764075161.237489000,
+    "updatedAt" : 1764075161.237489000
+  },
+  "59efdd64-85e8-4c3e-a9a4-db9704ac8922" : {
+    "id" : "59efdd64-85e8-4c3e-a9a4-db9704ac8922",
+    "title" : "New Task",
+    "description" : "Task description",
+    "status" : "NEW",
+    "createdAt" : 1764075161.254449000,
+    "updatedAt" : 1764075161.254449000
+  },
+  "28574b2c-bb49-448b-ad2d-a77c70556879" : {
+    "id" : "28574b2c-bb49-448b-ad2d-a77c70556879",
+    "title" : "Task 1",
+    "description" : "Description 1",
+    "status" : "NEW",
+    "createdAt" : 1764075161.278404000,
+    "updatedAt" : 1764075161.278404000
+  },
+  "45ff9eee-a4d8-47b7-bc91-c40feec46040" : {
+    "id" : "45ff9eee-a4d8-47b7-bc91-c40feec46040",
+    "title" : "Task 2",
+    "description" : "Description 2",
+    "status" : "NEW",
+    "createdAt" : 1764075161.279424000,
+    "updatedAt" : 1764075161.279424000
+  },
+  "34d216f8-f229-40e8-8c8c-670955c0c4f0" : {
+    "id" : "34d216f8-f229-40e8-8c8c-670955c0c4f0",
+    "title" : "Task 3",
+    "description" : "Description 3",
+    "status" : "NEW",
+    "createdAt" : 1764075161.280056000,
+    "updatedAt" : 1764075161.280056000
+  },
+  "c5720ba1-97a8-4121-b6e0-e019d264a02d" : {
+    "id" : "c5720ba1-97a8-4121-b6e0-e019d264a02d",
+    "title" : "Task to update",
+    "description" : "Description",
+    "status" : "IN_PROGRESS",
+    "createdAt" : 1764075161.286417000,
+    "updatedAt" : 1764075161.288899000
+  },
+  "e8fa76a4-072e-4785-a060-da63b2bcb3aa" : {
+    "id" : "e8fa76a4-072e-4785-a060-da63b2bcb3aa",
+    "title" : "Specific Task",
+    "description" : "Find me",
+    "status" : "NEW",
+    "createdAt" : 1764075161.302755000,
+    "updatedAt" : 1764075161.302755000
+  },
+  "84feb29d-9d64-475b-b664-944020036f4f" : {
+    "id" : "84feb29d-9d64-475b-b664-944020036f4f",
+    "title" : "Task without description",
+    "description" : null,
+    "status" : "NEW",
+    "createdAt" : 1764075161.307902000,
+    "updatedAt" : 1764075161.307902000
+  },
+  "fb16b7eb-6d29-4d4f-a0f0-a628e774a60f" : {
+    "id" : "fb16b7eb-6d29-4d4f-a0f0-a628e774a60f",
+    "title" : "Rollback Task",
+    "description" : "Testing rollback",
+    "status" : "NEW",
+    "createdAt" : 1764075161.311756000,
+    "updatedAt" : 1764075161.314348000
+  },
+  "7397b367-06ce-48b6-848e-feb56f52cd70" : {
+    "id" : "7397b367-06ce-48b6-848e-feb56f52cd70",
+    "title" : "Task 1",
+    "description" : "Desc 1",
+    "status" : "NEW",
+    "createdAt" : 1764075161.318573000,
+    "updatedAt" : 1764075161.318573000
+  },
+  "5c3315ac-f73d-4e48-a82f-31987cee39e7" : {
+    "id" : "5c3315ac-f73d-4e48-a82f-31987cee39e7",
+    "title" : "Task 2",
+    "description" : "Desc 2",
+    "status" : "IN_PROGRESS",
+    "createdAt" : 1764075161.319497000,
+    "updatedAt" : 1764075161.321057000
+  },
+  "d30291da-a755-4301-9152-05d3e891e40c" : {
+    "id" : "d30291da-a755-4301-9152-05d3e891e40c",
+    "title" : "Task 3",
+    "description" : "Desc 3",
+    "status" : "NEW",
+    "createdAt" : 1764075161.320105000,
+    "updatedAt" : 1764075161.320105000
+  },
+  "432c3f86-78f6-4ebf-b599-d4b6ddf22c90" : {
+    "id" : "432c3f86-78f6-4ebf-b599-d4b6ddf22c90",
+    "title" : "Transition Test",
+    "description" : "Testing transitions",
+    "status" : "DONE",
+    "createdAt" : 1764075212.232599000,
+    "updatedAt" : 1764075212.257076000
+  },
+  "d8f8968c-3bd0-49bc-b022-43659d71f68c" : {
+    "id" : "d8f8968c-3bd0-49bc-b022-43659d71f68c",
+    "title" : "Workflow 1",
+    "description" : "Desc 1",
+    "status" : "NEW",
+    "createdAt" : 1764075212.525300000,
+    "updatedAt" : 1764075212.525300000
+  },
+  "e58993ea-8873-428f-91bb-255f56cb3586" : {
+    "id" : "e58993ea-8873-428f-91bb-255f56cb3586",
+    "title" : "Workflow 2",
+    "description" : "Desc 2",
+    "status" : "NEW",
+    "createdAt" : 1764075212.530955000,
+    "updatedAt" : 1764075212.530955000
+  },
+  "207ae126-c450-451e-9d04-140ac8f86b7d" : {
+    "id" : "207ae126-c450-451e-9d04-140ac8f86b7d",
+    "title" : "Workflow 3",
+    "description" : "Desc 3",
+    "status" : "NEW",
+    "createdAt" : 1764075212.532570000,
+    "updatedAt" : 1764075212.532570000
+  },
+  "787da4e9-1558-45d6-b7e0-5b6eb76ace05" : {
+    "id" : "787da4e9-1558-45d6-b7e0-5b6eb76ace05",
+    "title" : "New Task",
+    "description" : "Task description",
+    "status" : "NEW",
+    "createdAt" : 1764075212.682359000,
+    "updatedAt" : 1764075212.682359000
+  },
+  "baf15621-e350-4e2f-aad0-7c6e3ad1adc1" : {
+    "id" : "baf15621-e350-4e2f-aad0-7c6e3ad1adc1",
+    "title" : "Task 1",
+    "description" : "Description 1",
+    "status" : "NEW",
+    "createdAt" : 1764075213.031482000,
+    "updatedAt" : 1764075213.031482000
+  },
+  "5f80536a-79af-4ca8-a4dc-fc25b7d16454" : {
+    "id" : "5f80536a-79af-4ca8-a4dc-fc25b7d16454",
+    "title" : "Task 2",
+    "description" : "Description 2",
+    "status" : "NEW",
+    "createdAt" : 1764075213.034675000,
+    "updatedAt" : 1764075213.034675000
+  },
+  "1e9ca159-0339-49eb-a623-91ccb56e0d1f" : {
+    "id" : "1e9ca159-0339-49eb-a623-91ccb56e0d1f",
+    "title" : "Task 3",
+    "description" : "Description 3",
+    "status" : "NEW",
+    "createdAt" : 1764075213.035666000,
+    "updatedAt" : 1764075213.035666000
+  },
+  "4626b034-3cac-4180-8bad-945b3996051d" : {
+    "id" : "4626b034-3cac-4180-8bad-945b3996051d",
+    "title" : "Task to update",
+    "description" : "Description",
+    "status" : "IN_PROGRESS",
+    "createdAt" : 1764075213.144743000,
+    "updatedAt" : 1764075213.148378000
+  },
+  "bc613a0d-7cf2-435c-ad5e-326a516aefc7" : {
+    "id" : "bc613a0d-7cf2-435c-ad5e-326a516aefc7",
+    "title" : "Specific Task",
+    "description" : "Find me",
+    "status" : "NEW",
+    "createdAt" : 1764075213.501522000,
+    "updatedAt" : 1764075213.501522000
+  },
+  "55f477aa-c651-493f-903d-f63eeed99d33" : {
+    "id" : "55f477aa-c651-493f-903d-f63eeed99d33",
+    "title" : "Task without description",
+    "description" : null,
+    "status" : "NEW",
+    "createdAt" : 1764075213.599917000,
+    "updatedAt" : 1764075213.599917000
+  },
+  "fc13c7f2-878b-4c11-9c43-27ea902595ed" : {
+    "id" : "fc13c7f2-878b-4c11-9c43-27ea902595ed",
+    "title" : "Rollback Task",
+    "description" : "Testing rollback",
+    "status" : "NEW",
+    "createdAt" : 1764075213.698699000,
+    "updatedAt" : 1764075213.702370000
+  },
+  "14174eda-4f79-4d73-9b3e-f36e0dc28304" : {
+    "id" : "14174eda-4f79-4d73-9b3e-f36e0dc28304",
+    "title" : "Task 1",
+    "description" : "Desc 1",
+    "status" : "NEW",
+    "createdAt" : 1764075213.789432000,
+    "updatedAt" : 1764075213.789432000
+  },
+  "f2745f58-b9c2-4432-ae78-ac2a21042ebf" : {
+    "id" : "f2745f58-b9c2-4432-ae78-ac2a21042ebf",
+    "title" : "Task 2",
+    "description" : "Desc 2",
+    "status" : "IN_PROGRESS",
+    "createdAt" : 1764075213.792276000,
+    "updatedAt" : 1764075213.794881000
+  },
+  "9202f4a0-48d8-4b4e-a783-c5c3c76a9cba" : {
+    "id" : "9202f4a0-48d8-4b4e-a783-c5c3c76a9cba",
+    "title" : "Task 3",
+    "description" : "Desc 3",
+    "status" : "NEW",
+    "createdAt" : 1764075213.793403000,
+    "updatedAt" : 1764075213.793403000
   }
 }
