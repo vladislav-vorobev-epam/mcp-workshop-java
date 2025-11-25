@@ -1,0 +1,30 @@
+server:
+  port: 8081
+
+spring:
+  ai:
+    mcp:
+      server:
+        enabled: true
+        name: task-mcp-server
+        version: 1.0.0
+        transport:
+          sse:
+            path: /mcp
+
+task:
+  api:
+    url: ${TASK_API_URL:http://localhost:8080}
+
+logging:
+  level:
+    com.epam.masterclass: DEBUG
+    org.springframework.ai.mcp: DEBUG
+    org.springframework.web: DEBUG
+    root: WARN
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: mappings
