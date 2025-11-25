@@ -1,0 +1,18 @@
+{
+  "edfd7d7e-a025-469b-b680-2034d8b058af" : {
+    "id" : "edfd7d7e-a025-469b-b680-2034d8b058af",
+    "title" : "Review code changes",
+    "description" : "Review PR #123",
+    "status" : "NEW",
+    "createdAt" : 1764067184.083678000,
+    "updatedAt" : 1764067184.083678000
+  },
+  "10b12c0a-a947-480e-88bb-6bd68a6ff31f" : {
+    "id" : "10b12c0a-a947-480e-88bb-6bd68a6ff31f",
+    "title" : "Write MCP Server",
+    "description" : "Some other task description",
+    "status" : "NEW",
+    "createdAt" : 1764067417.757934000,
+    "updatedAt" : 1764067417.757934000
+  }
+}

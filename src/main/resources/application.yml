@@ -1,3 +1,7 @@
+server:
+  port: ${SERVER_PORT:8001}
+  address: ${SERVER_HOST:localhost}
+
 app:
   data:
     directory: ${DATA_DIRECTORY:./data}
