@@ -17,7 +17,6 @@ public class TaskToolsProvider {
 
     public TaskToolsProvider(TaskApiClient taskApiClient) {
         this.taskApiClient = taskApiClient;
-        System.out.println("TaskToolsProvider initialized!");
     }
 
     @Tool(name = "get_all_tasks", description = "Get all tasks from the task management system")

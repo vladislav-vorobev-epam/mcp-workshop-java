@@ -19,5 +19,5 @@ public class McpServer {
 	@Bean
 	ToolCallbackProvider taskTools(TaskToolsProvider taskService) {
 		return MethodToolCallbackProvider.builder().toolObjects(taskService).build();
-	}
+    }
 }

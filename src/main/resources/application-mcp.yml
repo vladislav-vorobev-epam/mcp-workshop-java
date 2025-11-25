@@ -22,9 +22,3 @@ logging:
     org.springframework.ai.mcp: DEBUG
     org.springframework.web: DEBUG
     root: WARN
-
-management:
-  endpoints:
-    web:
-      exposure:
-        include: mappings
